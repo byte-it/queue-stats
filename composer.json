@@ -10,8 +10,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "illuminate/console": "5.*",
-        "illuminate/support": "5.*"
+    "illuminate/console": "^6.3.0",
+    "illuminate/database": "^6.3.0"       
     },
     "autoload": {
         "psr-4": {
